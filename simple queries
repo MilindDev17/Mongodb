@@ -1,0 +1,2 @@
+use user
+db.user.insertOne({name:"milind"})
